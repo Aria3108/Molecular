@@ -293,7 +293,7 @@ int main(){
     };
 
     /* vector<string> ap = {
-        "LEON", "CARAZAS", "CASERES", "TUPAC", "COLAN"
+        "LEON", "CARAZAS", "CACERES", "TUPAC", "COLAN"
     };*/
 
     mat A = distMat(seq);
